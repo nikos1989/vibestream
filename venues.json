@@ -19,7 +19,7 @@
     "name": "Scorpios",
     "location": "Mykonos, Greece",
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO_hphvVqX9fpesOzrRquvhlqIjIQ2gJ6hZKUMF=s1360-w1360-h1020",
-    "venueTimeZone": "Athens/Greece",
+    "venueTimeZone": "Europe/Athens",
     "operatingHours": {
       "0": { "open": "12:00", "close": "23:00" },
       "1": { "open": "12:00", "close": "23:00" },
