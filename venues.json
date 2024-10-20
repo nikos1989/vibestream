@@ -5,13 +5,13 @@
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO5YJ8jY-uOxKYtphj5gKUOg58SN103j-bVadl_=s1360-w1360-h1020",
     "venueTimeZone": "Asia/Dubai",
     "operatingHours": {
-      "0": { "open": "18:00", "close": "01:00" },
-      "1": { "open": "18:00", "close": "01:00" },
-      "2": { "open": "18:00", "close": "01:00" },
-      "3": { "open": "18:00", "close": "01:00" },
-      "4": { "open": "18:00", "close": "01:00" },
-      "5": { "open": "18:00", "close": "02:00" },
-      "6": { "open": "18:00", "close": "02:00" }
+      "0": { "open": "18:00", "close": "09:00" },
+      "1": { "open": "18:00", "close": "09:00" },
+      "2": { "open": "18:00", "close": "09:00" },
+      "3": { "open": "18:00", "close": "09:00" },
+      "4": { "open": "18:00", "close": "09:00" },
+      "5": { "open": "18:00", "close": "09:00" },
+      "6": { "open": "18:00", "close": "09:00" }
     },
     "trackId": "1480042159"
   },
@@ -21,13 +21,13 @@
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO_hphvVqX9fpesOzrRquvhlqIjIQ2gJ6hZKUMF=s1360-w1360-h1020",
     "venueTimeZone": "Europe/Athens",
     "operatingHours": {
-      "0": { "open": "12:00", "close": "23:00" },
-      "1": { "open": "12:00", "close": "23:00" },
-      "2": { "open": "12:00", "close": "23:00" },
-      "3": { "open": "12:00", "close": "23:00" },
-      "4": { "open": "12:00", "close": "23:00" },
-      "5": { "open": "12:00", "close": "00:00" },
-      "6": { "open": "12:00", "close": "00:00" }
+      "0": { "open": "12:00", "close": "09:00" },
+      "1": { "open": "12:00", "close": "09:00" },
+      "2": { "open": "12:00", "close": "09:00" },
+      "3": { "open": "12:00", "close": "09:00" },
+      "4": { "open": "12:00", "close": "09:00" },
+      "5": { "open": "12:00", "close": "09:00" },
+      "6": { "open": "12:00", "close": "09:00" }
     },
     "trackId": "1480042159"
   }
