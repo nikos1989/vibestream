@@ -48,7 +48,7 @@
     "musicType": ["Deep House", "Ethnic"],
     "popularityScore": 9.5,
     "coordinates": {
-      "latitude": 37.4220,
+      "latitude": 37.422,
       "longitude": 25.3289
     },
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO_hphvVqX9fpesOzrRquvhlqIjIQ2gJ6hZKUMF=s1360-w1360-h1020",
@@ -72,6 +72,769 @@
       "facebook": "https://www.facebook.com/scorpiosmykonos/"
     },
     "amenities": ["Beach Access", "Live Music", "Sunset View", "Restaurant"],
+    "priceRange": "$$$$",
+    "trackId": "1480042159"
+  },
+  "cafe-de-la-musique": {
+    "name": "Café de la Musique",
+    "description": "A sophisticated beach club offering an upscale dining experience and vibrant nightlife.",
+    "location": "Florianópolis, Brazil",
+    "continent": "South America",
+    "country": "Brazil",
+    "city": "Florianópolis",
+    "venueType": "Beach Club",
+    "musicType": ["Electronic", "House"],
+    "popularityScore": 8.8,
+    "coordinates": {
+      "latitude": -27.4358,
+      "longitude": -48.4676
+    },
+    "imageUrl": "https://example.com/images/cafe-de-la-musique.jpg",
+    "venueTimeZone": "America/Sao_Paulo",
+    "operatingHours": {
+      "0": { "open": "14:00", "close": "22:00" },
+      "1": { "open": "14:00", "close": "22:00" },
+      "2": { "open": "14:00", "close": "22:00" },
+      "3": { "open": "14:00", "close": "22:00" },
+      "4": { "open": "14:00", "close": "22:00" },
+      "5": { "open": "14:00", "close": "23:00" },
+      "6": { "open": "14:00", "close": "23:00" }
+    },
+    "contactInfo": {
+      "phone": "+55 48 3284-8156",
+      "email": "contato@cafedelamusiquefloripa.com.br",
+      "website": "https://www.cafedelamusiquefloripa.com.br/"
+    },
+    "socialMedia": {
+      "instagram": "https://www.instagram.com/cafedelamusiquefloripa/",
+      "facebook": "https://www.facebook.com/cafedelamusiquefloripa/"
+    },
+    "amenities": ["Beach Access", "VIP Area", "Live DJs", "Gourmet Dining"],
+    "priceRange": "$$$",
+    "trackId": "1480042159"
+  },
+  "sky-garden-bali": {
+    "name": "Sky Garden",
+    "description": "A multi-level nightclub offering diverse music genres and a rooftop lounge.",
+    "location": "Kuta, Bali, Indonesia",
+    "continent": "Asia",
+    "country": "Indonesia",
+    "city": "Kuta",
+    "venueType": "Nightclub",
+    "musicType": ["EDM", "Hip Hop", "Top 40"],
+    "popularityScore": 8.5,
+    "coordinates": {
+      "latitude": -8.7183,
+      "longitude": 115.1746
+    },
+    "imageUrl": "https://example.com/images/sky-garden-bali.jpg",
+    "venueTimeZone": "Asia/Makassar",
+    "operatingHours": {
+      "0": { "open": "17:00", "close": "03:00" },
+      "1": { "open": "17:00", "close": "03:00" },
+      "2": { "open": "17:00", "close": "03:00" },
+      "3": { "open": "17:00", "close": "03:00" },
+      "4": { "open": "17:00", "close": "03:00" },
+      "5": { "open": "17:00", "close": "04:00" },
+      "6": { "open": "17:00", "close": "04:00" }
+    },
+    "contactInfo": {
+      "phone": "+62 361 755423",
+      "email": "info@skygardenbali.com",
+      "website": "http://www.skygardenbali.com/"
+    },
+    "socialMedia": {
+      "instagram": "https://www.instagram.com/skygardenbali/",
+      "facebook": "https://www.facebook.com/SkyGardenBali/"
+    },
+    "amenities": ["Rooftop Lounge", "Multiple Dance Floors", "Live Performances"],
+    "priceRange": "$$",
+    "trackId": "1480042159"
+  },
+  "ocean-beach-ibiza": {
+    "name": "O Beach Ibiza",
+    "description": "A lively beach club known for its pool parties and daytime events.",
+    "location": "San Antonio, Ibiza, Spain",
+    "continent": "Europe",
+    "country": "Spain",
+    "city": "Ibiza",
+    "venueType": "Beach Club",
+    "musicType": ["House", "Dance"],
+    "popularityScore": 9.2,
+    "coordinates": {
+      "latitude": 38.9827,
+      "longitude": 1.2966
+    },
+    "imageUrl": "https://example.com/images/ocean-beach-ibiza.jpg",
+    "venueTimeZone": "Europe/Madrid",
+    "operatingHours": {
+      "0": { "open": "12:00", "close": "22:00" },
+      "1": { "open": "12:00", "close": "22:00" },
+      "2": { "open": "12:00", "close": "22:00" },
+      "3": { "open": "12:00", "close": "22:00" },
+      "4": { "open": "12:00", "close": "22:00" },
+      "5": { "open": "12:00", "close": "22:00" },
+      "6": { "open": "12:00", "close": "22:00" }
+    },
+    "contactInfo": {
+      "phone": "+34 971 80 32 60",
+      "email": "info@obeachibiza.com",
+      "website": "https://www.obeachibiza.com/"
+    },
+    "socialMedia": {
+      "instagram": "https://www.instagram.com/obeachibiza/",
+      "facebook": "https://www.facebook.com/obeachibiza/"
+    },
+    "amenities": ["Pool Parties", "VIP Beds", "Restaurant", "Cocktail Bar"],
+    "priceRange": "$$$",
+    "trackId": "1480042159"
+  },
+  "ce-la-vi-singapore": {
+    "name": "CÉ LA VI",
+    "description": "An upscale rooftop bar offering panoramic views of Singapore and a luxurious atmosphere.",
+    "location": "Singapore",
+    "continent": "Asia",
+    "country": "Singapore",
+    "city": "Singapore",
+    "venueType": "Rooftop Bar",
+    "musicType": ["Lounge", "Electronic"],
+    "popularityScore": 9.0,
+    "coordinates": {
+      "latitude": 1.2833,
+      "longitude": 103.8603
+    },
+    "imageUrl": "https://example.com/images/ce-la-vi-singapore.jpg",
+    "venueTimeZone": "Asia/Singapore",
+    "operatingHours": {
+      "0": { "open": "12:00", "close": "02:00" },
+      "1": { "open": "12:00", "close": "02:00" },
+      "2": { "open": "12:00", "close": "02:00" },
+      "3": { "open": "12:00", "close": "02:00" },
+      "4": { "open": "12:00", "close": "02:00" },
+      "5": { "open": "12:00", "close": "03:00" },
+      "6": { "open": "12:00", "close": "03:00" }
+    },
+    "contactInfo": {
+      "phone": "+65 6508 2188",
+      "email": "reservation-sg@celavi.com",
+      "website": "https://www.celavi.com/en/singapore/"
+    },
+    "socialMedia": {
+      "instagram": "https://www.instagram.com/celavisingapore/",
+      "facebook": "https://www.facebook.com/CeLaViSingapore/"
+    },
+    "amenities": ["Skyline Views", "Fine Dining", "Live DJs", "Signature Cocktails"],
+    "priceRange": "$$$$",
+    "trackId": "1480042159"
+  },
+  "white-beach-dubai": {
+    "name": "WHITE Beach",
+    "description": "A stylish beach club and restaurant offering a chic atmosphere with stunning sea views.",
+    "location": "Dubai, UAE",
+    "continent": "Asia",
+    "country": "United Arab Emirates",
+    "city": "Dubai",
+    "venueType": "Beach Club",
+    "musicType": ["House", "Chillout"],
+    "popularityScore": 8.7,
+    "coordinates": {
+      "latitude": 25.1305,
+      "longitude": 55.117
+    },
+    "imageUrl": "https://example.com/images/white-beach-dubai.jpg",
+    "venueTimeZone": "Asia/Dubai",
+    "operatingHours": {
+      "0": { "open": "10:00", "close": "20:00" },
+      "1": { "open": "10:00", "close": "20:00" },
+      "2": { "open": "10:00", "close": "20:00" },
+      "3": { "open": "10:00", "close": "20:00" },
+      "4": { "open": "10:00", "close": "20:00" },
+      "5": { "open": "10:00", "close": "22:00" },
+      "6": { "open": "10:00", "close": "22:00" }
+    },
+    "contactInfo": {
+      "phone": "+971 4 426 2626",
+      "email": "info@whitebeach.ae",
+      "website": "https://www.whitebeach.ae/"
+    },
+    "socialMedia": {
+      "instagram": "https://www.instagram.com/whitebeach/",
+      "facebook": "https://www.facebook.com/WHITEBeach/"
+    },
+    "amenities": ["Infinity Pool", "Beach Access", "Restaurant", "Live DJs"],
+    "priceRange": "$$$",
+    "trackId": "1480042159"
+  },
+  "park-hyatt-sydney": {
+    "name": "The Living Room",
+    "description": "An elegant lounge offering harbor views and a relaxed atmosphere for drinks and light bites.",
+    "location": "Sydney, Australia",
+    "continent": "Australia",
+    "country": "Australia",
+    "city": "Sydney",
+    "venueType": "Lounge",
+    "musicType": ["Jazz", "Acoustic"],
+    "popularityScore": 8.9,
+    "coordinates": {
+      "latitude": -33.8568,
+      "longitude": 151.211
+    },
+    "imageUrl": "https://example.com/images/park-hyatt-sydney.jpg",
+    "venueTimeZone": "Australia/Sydney",
+    "operatingHours": {
+      "0": { "open": "07:00", "close": "22:00" },
+      "1": { "open": "07:00", "close": "22:00" },
+      "2": { "open": "07:00", "close": "22:00" },
+      "3": { "open": "07:00", "close": "22:00" },
+      "4": { "open": "07:00", "close": "22:00" },
+      "5": { "open": "07:00", "close": "23:00" },
+      "6": { "open": "07:00", "close": "23:00" }
+    },
+    "contactInfo": {
+      "phone": "+61 2 9256 1661",
+      "email": "sydney.park@hyatt.com",
+      "website": "https://www.hyatt.com/en-US/hotel/australia/park-hyatt-sydney/sydph"
+    },
+    "socialMedia": {
+      "instagram": "https://www.instagram.com/parkhyattsydney/",
+      "facebook": "https://www.facebook.com/ParkHyattSydney/"
+    },
+    "amenities": ["Harbor Views", "Fine Wines", "Afternoon Tea", "Live Music"],
+    "priceRange": "$$$$",
+    "trackId": "1480042159"
+  },
+  "le-sunset-paris": {
+    "name": "Le Sunset",
+    "description": "A cozy jazz club offering live performances in an intimate setting.",
+    "location": "Paris, France",
+    "continent": "Europe",
+    "country": "France",
+    "city": "Paris",
+    "venueType": "Jazz Club",
+    "musicType": ["Jazz", "Blues"],
+    "popularityScore": 8.3,
+    "coordinates": {
+      "latitude": 48.8625,
+      "longitude": 2.3488
+    },
+    "imageUrl": "https://example.com/images/le-sunset-paris.jpg",
+    "venueTimeZone": "Europe/Paris",
+    "operatingHours": {
+      "0": { "open": "17:00", "close": "01:00" },
+      "1": { "open": "17:00", "close": "01:00" },
+      "2": { "open": "17:00", "close": "01:00" },
+      "3": { "open": "17:00", "close": "01:00" },
+      "4": { "open": "17:00", "close": "01:00" },
+      "5": { "open": "17:00", "close": "02:00" },
+      "6": { "open": "17:00", "close": "02:00" }
+    },
+    "contactInfo": {
+      "phone": "+33 1 40 26 46 60",
+      "email": "contact@sunset-sunside.com",
+      "website": "https://www.sunset-sunside.com/"
+    },
+    "socialMedia": {
+      "instagram": "https://www.instagram.com/sunsetsunside/",
+      "facebook": "https://www.facebook.com/sunsetsunside/"
+    },
+    "amenities": ["Live Jazz", "Cocktail Bar", "Intimate Setting"],
+    "priceRange": "$$",
+    "trackId": "1480042159"
+  },
+  "dante-new-york": {
+    "name": "Dante",
+    "description": "An iconic cafe and bar known for its award-winning cocktails and Italian-inspired cuisine.",
+    "location": "New York City, USA",
+    "continent": "North America",
+    "country": "United States",
+    "city": "New York",
+    "venueType": "Cafe",
+    "musicType": ["Jazz", "Lounge"],
+    "popularityScore": 9.1,
+    "coordinates": {
+      "latitude": 40.7282,
+      "longitude": -74.0002
+    },
+    "imageUrl": "https://example.com/images/dante-new-york.jpg",
+    "venueTimeZone": "America/New_York",
+    "operatingHours": {
+      "0": { "open": "10:00", "close": "23:00" },
+      "1": { "open": "10:00", "close": "23:00" },
+      "2": { "open": "10:00", "close": "23:00" },
+      "3": { "open": "10:00", "close": "23:00" },
+      "4": { "open": "10:00", "close": "23:00" },
+      "5": { "open": "10:00", "close": "00:00" },
+      "6": { "open": "10:00", "close": "00:00" }
+    },
+    "contactInfo": {
+      "phone": "+1 212-982-5275",
+      "email": "info@dante-nyc.com",
+      "website": "https://dante-nyc.com/"
+    },
+    "socialMedia": {
+      "instagram": "https://www.instagram.com/dantenewyorkcity/",
+      "facebook": "https://www.facebook.com/dantenewyorkcity/"
+    },
+    "amenities": ["Outdoor Seating", "Craft Cocktails", "Brunch", "Live Music"],
+    "priceRange": "$$$",
+    "trackId": "1480042159"
+  },
+
+  <!-- Additional 15 Venues Added Below -->
+
+  "nightjar-london": {
+    "name": "Nightjar",
+    "description": "A speakeasy-style bar offering inventive cocktails and live jazz in a cozy atmosphere.",
+    "location": "London, UK",
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "city": "London",
+    "venueType": "Cocktail Bar",
+    "musicType": ["Jazz", "Blues"],
+    "popularityScore": 9.0,
+    "coordinates": {
+      "latitude": 51.5260,
+      "longitude": -0.0885
+    },
+    "imageUrl": "https://example.com/images/nightjar-london.jpg",
+    "venueTimeZone": "Europe/London",
+    "operatingHours": {
+      "0": { "open": "17:00", "close": "00:00" },
+      "1": { "open": "17:00", "close": "00:00" },
+      "2": { "open": "17:00", "close": "00:00" },
+      "3": { "open": "17:00", "close": "01:00" },
+      "4": { "open": "17:00", "close": "02:00" },
+      "5": { "open": "17:00", "close": "02:00" },
+      "6": { "open": "17:00", "close": "01:00" }
+    },
+    "contactInfo": {
+      "phone": "+44 20 7253 4101",
+      "email": "info@barnightjar.com",
+      "website": "https://www.barnightjar.com/"
+    },
+    "socialMedia": {
+      "instagram": "https://www.instagram.com/nightjarlondon/",
+      "facebook": "https://www.facebook.com/nightjar/"
+    },
+    "amenities": ["Live Music", "Unique Cocktails", "Table Service"],
+    "priceRange": "$$$",
+    "trackId": "1480042159"
+  },
+  "quinary-hong-kong": {
+    "name": "Quinary",
+    "description": "A modern cocktail bar known for its multisensory mixology experience.",
+    "location": "Hong Kong",
+    "continent": "Asia",
+    "country": "China",
+    "city": "Hong Kong",
+    "venueType": "Cocktail Bar",
+    "musicType": ["Lounge", "Electronic"],
+    "popularityScore": 8.8,
+    "coordinates": {
+      "latitude": 22.2819,
+      "longitude": 114.1558
+    },
+    "imageUrl": "https://example.com/images/quinary-hong-kong.jpg",
+    "venueTimeZone": "Asia/Hong_Kong",
+    "operatingHours": {
+      "0": { "open": "17:00", "close": "01:00" },
+      "1": { "open": "17:00", "close": "01:00" },
+      "2": { "open": "17:00", "close": "01:00" },
+      "3": { "open": "17:00", "close": "01:00" },
+      "4": { "open": "17:00", "close": "02:00" },
+      "5": { "open": "17:00", "close": "02:00" },
+      "6": { "open": "17:00", "close": "01:00" }
+    },
+    "contactInfo": {
+      "phone": "+852 2851 3223",
+      "email": "info@quinary.hk",
+      "website": "https://www.quinary.hk/"
+    },
+    "socialMedia": {
+      "instagram": "https://www.instagram.com/quinaryhk/",
+      "facebook": "https://www.facebook.com/QuinaryHK/"
+    },
+    "amenities": ["Signature Cocktails", "Modern Decor", "Mixology Experience"],
+    "priceRange": "$$$",
+    "trackId": "1480042159"
+  },
+  "the-dead-rabbit-nyc": {
+    "name": "The Dead Rabbit",
+    "description": "An award-winning bar combining a traditional Irish pub with innovative cocktails.",
+    "location": "New York City, USA",
+    "continent": "North America",
+    "country": "United States",
+    "city": "New York",
+    "venueType": "Bar",
+    "musicType": ["Irish Folk", "Live Bands"],
+    "popularityScore": 9.2,
+    "coordinates": {
+      "latitude": 40.7033,
+      "longitude": -74.0110
+    },
+    "imageUrl": "https://example.com/images/the-dead-rabbit-nyc.jpg",
+    "venueTimeZone": "America/New_York",
+    "operatingHours": {
+      "0": { "open": "12:00", "close": "02:00" },
+      "1": { "open": "12:00", "close": "02:00" },
+      "2": { "open": "12:00", "close": "02:00" },
+      "3": { "open": "12:00", "close": "02:00" },
+      "4": { "open": "12:00", "close": "02:00" },
+      "5": { "open": "12:00", "close": "03:00" },
+      "6": { "open": "12:00", "close": "03:00" }
+    },
+    "contactInfo": {
+      "phone": "+1 646-422-7906",
+      "email": "info@deadrabbitnyc.com",
+      "website": "https://www.deadrabbitnyc.com/"
+    },
+    "socialMedia": {
+      "instagram": "https://www.instagram.com/deadrabbitnyc/",
+      "facebook": "https://www.facebook.com/TheDeadRabbitGroceryandGrog/"
+    },
+    "amenities": ["Irish Pub", "Cocktails", "Live Music", "Food Menu"],
+    "priceRange": "$$$",
+    "trackId": "1480042159"
+  },
+  "sky-bar-bangkok": {
+    "name": "Sky Bar",
+    "description": "One of the world's highest rooftop bars offering panoramic views of Bangkok.",
+    "location": "Bangkok, Thailand",
+    "continent": "Asia",
+    "country": "Thailand",
+    "city": "Bangkok",
+    "venueType": "Rooftop Bar",
+    "musicType": ["Lounge", "Ambient"],
+    "popularityScore": 9.1,
+    "coordinates": {
+      "latitude": 13.7211,
+      "longitude": 100.5172
+    },
+    "imageUrl": "https://example.com/images/sky-bar-bangkok.jpg",
+    "venueTimeZone": "Asia/Bangkok",
+    "operatingHours": {
+      "0": { "open": "16:00", "close": "01:00" },
+      "1": { "open": "16:00", "close": "01:00" },
+      "2": { "open": "16:00", "close": "01:00" },
+      "3": { "open": "16:00", "close": "01:00" },
+      "4": { "open": "16:00", "close": "01:00" },
+      "5": { "open": "16:00", "close": "01:00" },
+      "6": { "open": "16:00", "close": "01:00" }
+    },
+    "contactInfo": {
+      "phone": "+66 2 624 9555",
+      "email": "reservations@lebua.com",
+      "website": "https://lebua.com/sky-bar/"
+    },
+    "socialMedia": {
+      "instagram": "https://www.instagram.com/lebuaHotelsResorts/",
+      "facebook": "https://www.facebook.com/lebua/"
+    },
+    "amenities": ["Panoramic Views", "Signature Cocktails", "Live Music"],
+    "priceRange": "$$$$",
+    "trackId": "1480042159"
+  },
+  "the-blue-lagoon-iceland": {
+    "name": "The Blue Lagoon",
+    "description": "A geothermal spa offering relaxation and wellness experiences in a unique setting.",
+    "location": "Grindavík, Iceland",
+    "continent": "Europe",
+    "country": "Iceland",
+    "city": "Grindavík",
+    "venueType": "Spa",
+    "musicType": ["Ambient", "Relaxing"],
+    "popularityScore": 9.3,
+    "coordinates": {
+      "latitude": 63.8804,
+      "longitude": -22.4495
+    },
+    "imageUrl": "https://example.com/images/blue-lagoon-iceland.jpg",
+    "venueTimeZone": "Atlantic/Reykjavik",
+    "operatingHours": {
+      "0": { "open": "08:00", "close": "22:00" },
+      "1": { "open": "08:00", "close": "22:00" },
+      "2": { "open": "08:00", "close": "22:00" },
+      "3": { "open": "08:00", "close": "22:00" },
+      "4": { "open": "08:00", "close": "22:00" },
+      "5": { "open": "08:00", "close": "23:00" },
+      "6": { "open": "08:00", "close": "23:00" }
+    },
+    "contactInfo": {
+      "phone": "+354 420 8800",
+      "email": "contact@bluelagoon.is",
+      "website": "https://www.bluelagoon.com/"
+    },
+    "socialMedia": {
+      "instagram": "https://www.instagram.com/bluelagoonis/",
+      "facebook": "https://www.facebook.com/bluelagoonis/"
+    },
+    "amenities": ["Spa Treatments", "Restaurant", "Bar", "Natural Scenery"],
+    "priceRange": "$$$$",
+    "trackId": "1480042159"
+  },
+  "la-bodeguita-del-medio": {
+    "name": "La Bodeguita del Medio",
+    "description": "A historic bar famous for its mojitos and association with Ernest Hemingway.",
+    "location": "Havana, Cuba",
+    "continent": "North America",
+    "country": "Cuba",
+    "city": "Havana",
+    "venueType": "Bar",
+    "musicType": ["Latin", "Salsa"],
+    "popularityScore": 8.5,
+    "coordinates": {
+      "latitude": 23.1416,
+      "longitude": -82.3526
+    },
+    "imageUrl": "https://example.com/images/la-bodeguita-del-medio.jpg",
+    "venueTimeZone": "America/Havana",
+    "operatingHours": {
+      "0": { "open": "12:00", "close": "00:00" },
+      "1": { "open": "12:00", "close": "00:00" },
+      "2": { "open": "12:00", "close": "00:00" },
+      "3": { "open": "12:00", "close": "00:00" },
+      "4": { "open": "12:00", "close": "00:00" },
+      "5": { "open": "12:00", "close": "01:00" },
+      "6": { "open": "12:00", "close": "01:00" }
+    },
+    "contactInfo": {
+      "phone": "+53 7 8671374",
+      "email": "info@labodeguitadelmedio.cu",
+      "website": "http://www.bodeguita.cu/"
+    },
+    "socialMedia": {
+      "instagram": "https://www.instagram.com/labodeguitahabana/",
+      "facebook": "https://www.facebook.com/labodeguitadelmediooficial/"
+    },
+    "amenities": ["Live Music", "Historical Site", "Cuban Cuisine"],
+    "priceRange": "$$",
+    "trackId": "1480042159"
+  },
+  "zuma-dubai": {
+    "name": "Zuma",
+    "description": "A contemporary Japanese restaurant and bar offering a sophisticated dining experience.",
+    "location": "Dubai, UAE",
+    "continent": "Asia",
+    "country": "United Arab Emirates",
+    "city": "Dubai",
+    "venueType": "Restaurant",
+    "musicType": ["Lounge", "Ambient"],
+    "popularityScore": 9.4,
+    "coordinates": {
+      "latitude": 25.2048,
+      "longitude": 55.2708
+    },
+    "imageUrl": "https://example.com/images/zuma-dubai.jpg",
+    "venueTimeZone": "Asia/Dubai",
+    "operatingHours": {
+      "0": { "open": "12:00", "close": "01:00" },
+      "1": { "open": "12:00", "close": "01:00" },
+      "2": { "open": "12:00", "close": "01:00" },
+      "3": { "open": "12:00", "close": "01:00" },
+      "4": { "open": "12:00", "close": "02:00" },
+      "5": { "open": "12:00", "close": "02:00" },
+      "6": { "open": "12:00", "close": "01:00" }
+    },
+    "contactInfo": {
+      "phone": "+971 4 425 5660",
+      "email": "reservations@zumarestaurant.ae",
+      "website": "https://zumarestaurant.com/locations/dubai"
+    },
+    "socialMedia": {
+      "instagram": "https://www.instagram.com/zumadubai/",
+      "facebook": "https://www.facebook.com/Zuma.Dubai/"
+    },
+    "amenities": ["Fine Dining", "Sushi Bar", "Cocktails", "Lounge Area"],
+    "priceRange": "$$$$",
+    "trackId": "1480042159"
+  },
+  "the-ivy-london": {
+    "name": "The Ivy",
+    "description": "An iconic British restaurant offering a luxurious dining experience and modern European cuisine.",
+    "location": "London, UK",
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "city": "London",
+    "venueType": "Restaurant",
+    "musicType": ["Classical", "Jazz"],
+    "popularityScore": 9.0,
+    "coordinates": {
+      "latitude": 51.5132,
+      "longitude": -0.1265
+    },
+    "imageUrl": "https://example.com/images/the-ivy-london.jpg",
+    "venueTimeZone": "Europe/London",
+    "operatingHours": {
+      "0": { "open": "11:30", "close": "23:00" },
+      "1": { "open": "11:30", "close": "23:00" },
+      "2": { "open": "11:30", "close": "23:00" },
+      "3": { "open": "11:30", "close": "23:00" },
+      "4": { "open": "11:30", "close": "23:00" },
+      "5": { "open": "11:30", "close": "00:00" },
+      "6": { "open": "11:30", "close": "00:00" }
+    },
+    "contactInfo": {
+      "phone": "+44 20 7836 4751",
+      "email": "enquiries@the-ivy.co.uk",
+      "website": "https://theivy.co.uk/"
+    },
+    "socialMedia": {
+      "instagram": "https://www.instagram.com/theivylondon/",
+      "facebook": "https://www.facebook.com/TheIvyWestStreet/"
+    },
+    "amenities": ["Fine Dining", "Private Rooms", "Celebrity Spotting"],
+    "priceRange": "$$$$",
+    "trackId": "1480042159"
+  },
+  "black-pearl-melbourne": {
+    "name": "Black Pearl",
+    "description": "An award-winning bar offering creative cocktails in a relaxed, stylish setting.",
+    "location": "Melbourne, Australia",
+    "continent": "Australia",
+    "country": "Australia",
+    "city": "Melbourne",
+    "venueType": "Cocktail Bar",
+    "musicType": ["Jazz", "Soul"],
+    "popularityScore": 9.1,
+    "coordinates": {
+      "latitude": -37.7982,
+      "longitude": 144.9781
+    },
+    "imageUrl": "https://example.com/images/black-pearl-melbourne.jpg",
+    "venueTimeZone": "Australia/Melbourne",
+    "operatingHours": {
+      "0": { "open": "17:00", "close": "03:00" },
+      "1": { "open": "17:00", "close": "03:00" },
+      "2": { "open": "17:00", "close": "03:00" },
+      "3": { "open": "17:00", "close": "03:00" },
+      "4": { "open": "17:00", "close": "03:00" },
+      "5": { "open": "16:00", "close": "03:00" },
+      "6": { "open": "16:00", "close": "03:00" }
+    },
+    "contactInfo": {
+      "phone": "+61 3 9417 0455",
+      "email": "info@blackpearlbar.com.au",
+      "website": "http://www.blackpearlbar.com.au/"
+    },
+    "socialMedia": {
+      "instagram": "https://www.instagram.com/black_pearl_bar/",
+      "facebook": "https://www.facebook.com/BlackPearlBar/"
+    },
+    "amenities": ["Cocktail Lounge", "Private Events", "Live DJs"],
+    "priceRange": "$$$",
+    "trackId": "1480042159"
+  },
+  "the-ritz-paris": {
+    "name": "Bar Hemingway",
+    "description": "A legendary bar named after Ernest Hemingway, offering classic cocktails in an elegant setting.",
+    "location": "Paris, France",
+    "continent": "Europe",
+    "country": "France",
+    "city": "Paris",
+    "venueType": "Bar",
+    "musicType": ["Piano", "Jazz"],
+    "popularityScore": 9.5,
+    "coordinates": {
+      "latitude": 48.8688,
+      "longitude": 2.3284
+    },
+    "imageUrl": "https://example.com/images/bar-hemingway-paris.jpg",
+    "venueTimeZone": "Europe/Paris",
+    "operatingHours": {
+      "0": { "open": "18:00", "close": "02:00" },
+      "1": { "open": "18:00", "close": "02:00" },
+      "2": { "open": "18:00", "close": "02:00" },
+      "3": { "open": "18:00", "close": "02:00" },
+      "4": { "open": "18:00", "close": "02:00" },
+      "5": { "open": "18:00", "close": "02:00" },
+      "6": { "open": "18:00", "close": "02:00" }
+    },
+    "contactInfo": {
+      "phone": "+33 1 43 16 30 30",
+      "email": "info@ritzparis.com",
+      "website": "https://www.ritzparis.com/en-GB/fine-dining/bars/Bar-Hemingway"
+    },
+    "socialMedia": {
+      "instagram": "https://www.instagram.com/ritzparis/",
+      "facebook": "https://www.facebook.com/RitzParis/"
+    },
+    "amenities": ["Historic Bar", "Signature Cocktails", "Elegant Ambiance"],
+    "priceRange": "$$$$",
+    "trackId": "1480042159"
+  },
+  "the-gin-palace-melbourne": {
+    "name": "Gin Palace",
+    "description": "A sophisticated cocktail bar specializing in gin-based drinks in a luxurious setting.",
+    "location": "Melbourne, Australia",
+    "continent": "Australia",
+    "country": "Australia",
+    "city": "Melbourne",
+    "venueType": "Bar",
+    "musicType": ["Jazz", "Lounge"],
+    "popularityScore": 8.7,
+    "coordinates": {
+      "latitude": -37.8150,
+      "longitude": 144.9668
+    },
+    "imageUrl": "https://example.com/images/gin-palace-melbourne.jpg",
+    "venueTimeZone": "Australia/Melbourne",
+    "operatingHours": {
+      "0": { "open": "16:00", "close": "03:00" },
+      "1": { "open": "16:00", "close": "03:00" },
+      "2": { "open": "16:00", "close": "03:00" },
+      "3": { "open": "16:00", "close": "03:00" },
+      "4": { "open": "16:00", "close": "03:00" },
+      "5": { "open": "16:00", "close": "03:00" },
+      "6": { "open": "16:00", "close": "03:00" }
+    },
+    "contactInfo": {
+      "phone": "+61 3 9654 0533",
+      "email": "info@ginpalace.com.au",
+      "website": "http://www.ginpalace.com.au/"
+    },
+    "socialMedia": {
+      "instagram": "https://www.instagram.com/ginpalacemelbourne/",
+      "facebook": "https://www.facebook.com/GinPalaceMelbourne/"
+    },
+    "amenities": ["Gin Selection", "Cocktail Lounge", "Intimate Setting"],
+    "priceRange": "$$$",
+    "trackId": "1480042159"
+  },
+  "buddha-bar-paris": {
+    "name": "Buddha-Bar",
+    "description": "A stylish bar and restaurant offering Asian-fusion cuisine and a unique ambiance.",
+    "location": "Paris, France",
+    "continent": "Europe",
+    "country": "France",
+    "city": "Paris",
+    "venueType": "Restaurant",
+    "musicType": ["Lounge", "Chillout"],
+    "popularityScore": 9.0,
+    "coordinates": {
+      "latitude": 48.8675,
+      "longitude": 2.3211
+    },
+    "imageUrl": "https://example.com/images/buddha-bar-paris.jpg",
+    "venueTimeZone": "Europe/Paris",
+    "operatingHours": {
+      "0": { "open": "18:00", "close": "02:00" },
+      "1": { "open": "18:00", "close": "02:00" },
+      "2": { "open": "18:00", "close": "02:00" },
+      "3": { "open": "18:00", "close": "02:00" },
+      "4": { "open": "18:00", "close": "02:00" },
+      "5": { "open": "18:00", "close": "03:00" },
+      "6": { "open": "18:00", "close": "03:00" }
+    },
+    "contactInfo": {
+      "phone": "+33 1 53 05 90 00",
+      "email": "reservation@buddhabar.com",
+      "website": "https://www.buddhabar.com/"
+    },
+    "socialMedia": {
+      "instagram": "https://www.instagram.com/buddhabarparis/",
+      "facebook": "https://www.facebook.com/BuddhaBarParisOfficial/"
+    },
+    "amenities": ["Asian Cuisine", "DJ Music", "Exotic Decor"],
     "priceRange": "$$$$",
     "trackId": "1480042159"
   }
