@@ -48,7 +48,7 @@
     "musicType": ["Deep House", "Ethnic"],
     "popularityScore": 9.5,
     "coordinates": {
-      "latitude": 37.422,
+      "latitude": 37.4220,
       "longitude": 25.3289
     },
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO_hphvVqX9fpesOzrRquvhlqIjIQ2gJ6hZKUMF=s1360-w1360-h1020",
@@ -239,7 +239,7 @@
     "popularityScore": 8.7,
     "coordinates": {
       "latitude": 25.1305,
-      "longitude": 55.117
+      "longitude": 55.1170
     },
     "imageUrl": "https://example.com/images/white-beach-dubai.jpg",
     "venueTimeZone": "Asia/Dubai",
@@ -277,7 +277,7 @@
     "popularityScore": 8.9,
     "coordinates": {
       "latitude": -33.8568,
-      "longitude": 151.211
+      "longitude": 151.2110
     },
     "imageUrl": "https://example.com/images/park-hyatt-sydney.jpg",
     "venueTimeZone": "Australia/Sydney",
@@ -379,9 +379,6 @@
     "priceRange": "$$$",
     "trackId": "1480042159"
   },
-
-  <!-- Additional 15 Venues Added Below -->
-
   "nightjar-london": {
     "name": "Nightjar",
     "description": "A speakeasy-style bar offering inventive cocktails and live jazz in a cozy atmosphere.",
