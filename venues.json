@@ -89,7 +89,7 @@
       "latitude": -27.4358,
       "longitude": -48.4676
     },
-    "imageUrl": "https://example.com/images/cafe-de-la-musique.jpg",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/video-t/17/a6/85/fb/cafe-de-la-musique-dining-1.jpg",
     "venueTimeZone": "America/Sao_Paulo",
     "operatingHours": {
       "0": { "open": "14:00", "close": "22:00" },
