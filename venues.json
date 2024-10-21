@@ -1,34 +1,78 @@
 {
   "siddharta-lounge": {
     "name": "Siddharta Lounge by Buddha-Bar Dubai",
+    "description": "A chic and stylish lounge offering panoramic views and a fusion of Mediterranean and Asian flavors.",
     "location": "Dubai, UAE",
+    "continent": "Asia",
+    "country": "United Arab Emirates",
+    "city": "Dubai",
+    "venueType": "Lounge",
+    "musicType": ["Chillout", "Lounge"],
+    "popularityScore": 9.0,
+    "coordinates": {
+      "latitude": 25.0935,
+      "longitude": 55.1428
+    },
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO5YJ8jY-uOxKYtphj5gKUOg58SN103j-bVadl_=s1360-w1360-h1020",
     "venueTimeZone": "Asia/Dubai",
     "operatingHours": {
-      "0": { "open": "18:00", "close": "09:00" },
-      "1": { "open": "18:00", "close": "09:00" },
-      "2": { "open": "18:00", "close": "09:00" },
-      "3": { "open": "18:00", "close": "09:00" },
-      "4": { "open": "18:00", "close": "09:00" },
-      "5": { "open": "18:00", "close": "09:00" },
-      "6": { "open": "18:00", "close": "09:00" }
+      "0": { "open": "18:00", "close": "02:00" },
+      "1": { "open": "18:00", "close": "02:00" },
+      "2": { "open": "18:00", "close": "02:00" },
+      "3": { "open": "18:00", "close": "02:00" },
+      "4": { "open": "18:00", "close": "02:00" },
+      "5": { "open": "18:00", "close": "03:00" },
+      "6": { "open": "18:00", "close": "03:00" }
     },
+    "contactInfo": {
+      "phone": "+971 4 317 6000",
+      "email": "reservations@siddhartalounge.com",
+      "website": "https://www.siddhartalounge.com/"
+    },
+    "socialMedia": {
+      "instagram": "https://www.instagram.com/siddhartaloungedubai/",
+      "facebook": "https://www.facebook.com/SiddhartaLoungeDubai/"
+    },
+    "amenities": ["Rooftop Seating", "Panoramic Views", "DJ", "Valet Parking"],
+    "priceRange": "$$$",
     "trackId": "1480042159"
   },
   "scorpios-mykonos": {
     "name": "Scorpios",
+    "description": "A seaside retreat combining rustic elegance with a vibrant atmosphere, known for its sunset rituals.",
     "location": "Mykonos, Greece",
+    "continent": "Europe",
+    "country": "Greece",
+    "city": "Mykonos",
+    "venueType": "Beach Bar",
+    "musicType": ["Deep House", "Ethnic"],
+    "popularityScore": 9.5,
+    "coordinates": {
+      "latitude": 37.4220,
+      "longitude": 25.3289
+    },
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO_hphvVqX9fpesOzrRquvhlqIjIQ2gJ6hZKUMF=s1360-w1360-h1020",
     "venueTimeZone": "Europe/Athens",
     "operatingHours": {
-      "0": { "open": "12:00", "close": "09:00" },
-      "1": { "open": "12:00", "close": "09:00" },
-      "2": { "open": "12:00", "close": "09:00" },
-      "3": { "open": "12:00", "close": "09:00" },
-      "4": { "open": "12:00", "close": "09:00" },
-      "5": { "open": "12:00", "close": "09:00" },
-      "6": { "open": "12:00", "close": "09:00" }
+      "0": { "open": "12:00", "close": "01:00" },
+      "1": { "open": "12:00", "close": "01:00" },
+      "2": { "open": "12:00", "close": "01:00" },
+      "3": { "open": "12:00", "close": "01:00" },
+      "4": { "open": "12:00", "close": "01:00" },
+      "5": { "open": "12:00", "close": "02:00" },
+      "6": { "open": "12:00", "close": "02:00" }
     },
+    "contactInfo": {
+      "phone": "+30 2289 029250",
+      "email": "info@scorpiosmykonos.com",
+      "website": "https://www.scorpiosmykonos.com/"
+    },
+    "socialMedia": {
+      "instagram": "https://www.instagram.com/scorpiosmyk/",
+      "facebook": "https://www.facebook.com/scorpiosmykonos/"
+    },
+    "amenities": ["Beach Access", "Live Music", "Sunset View", "Restaurant"],
+    "priceRange": "$$$$",
     "trackId": "1480042159"
   }
 }
