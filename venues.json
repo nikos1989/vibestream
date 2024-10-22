@@ -493,44 +493,6 @@
     "priceRange": "$$$$",
     "trackId": "148018681"
   },
-  "the-blue-lagoon-iceland": {
-    "name": "The Blue Lagoon",
-    "description": "A geothermal spa offering relaxation and wellness experiences in a unique setting.",
-    "location": "Grindavík, Iceland",
-    "continent": "Europe",
-    "country": "Iceland",
-    "city": "Grindavík",
-    "venueType": "Spa",
-    "musicType": ["Ambient", "Relaxing"],
-    "popularityScore": 9.3,
-    "coordinates": {
-      "latitude": 63.8804,
-      "longitude": -22.4495
-    },
-    "imageUrl": "https://example.com/images/blue-lagoon-iceland.jpg",
-    "venueTimeZone": "Atlantic/Reykjavik",
-    "operatingHours": {
-      "0": { "open": "08:00", "close": "22:00" },
-      "1": { "open": "08:00", "close": "22:00" },
-      "2": { "open": "08:00", "close": "22:00" },
-      "3": { "open": "08:00", "close": "22:00" },
-      "4": { "open": "08:00", "close": "22:00" },
-      "5": { "open": "08:00", "close": "23:00" },
-      "6": { "open": "08:00", "close": "23:00" }
-    },
-    "contactInfo": {
-      "phone": "+354 420 8800",
-      "email": "contact@bluelagoon.is",
-      "website": "https://www.bluelagoon.com/"
-    },
-    "socialMedia": {
-      "instagram": "https://www.instagram.com/bluelagoonis/",
-      "facebook": "https://www.facebook.com/bluelagoonis/"
-    },
-    "amenities": ["Spa Treatments", "Restaurant", "Bar", "Natural Scenery"],
-    "priceRange": "$$$$",
-    "trackId": "1480042159"
-  },
   "la-bodeguita-del-medio": {
     "name": "La Bodeguita del Medio",
     "description": "A historic bar famous for its mojitos and association with Ernest Hemingway.",
@@ -545,7 +507,7 @@
       "latitude": 23.1416,
       "longitude": -82.3526
     },
-    "imageUrl": "https://example.com/images/la-bodeguita-del-medio.jpg",
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNbl7twwM0eQ66e2y80YIwhybqXDhRuKyzP3iId=s1360-w1360-h1020",
     "venueTimeZone": "America/Havana",
     "operatingHours": {
       "0": { "open": "12:00", "close": "00:00" },
@@ -567,7 +529,7 @@
     },
     "amenities": ["Live Music", "Historical Site", "Cuban Cuisine"],
     "priceRange": "$$",
-    "trackId": "1480042159"
+    "trackId": "1936130606"
   },
   "zuma-dubai": {
     "name": "Zuma",
@@ -583,7 +545,7 @@
       "latitude": 25.2048,
       "longitude": 55.2708
     },
-    "imageUrl": "https://example.com/images/zuma-dubai.jpg",
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNU5FtKzjHtHFWOj_hfo4H-N0RJTVcy4tKqeb6D=s1360-w1360-h1020",
     "venueTimeZone": "Asia/Dubai",
     "operatingHours": {
       "0": { "open": "12:00", "close": "01:00" },
@@ -605,7 +567,7 @@
     },
     "amenities": ["Fine Dining", "Sushi Bar", "Cocktails", "Lounge Area"],
     "priceRange": "$$$$",
-    "trackId": "1480042159"
+    "trackId": "1783577580"
   },
   "the-ivy-london": {
     "name": "The Ivy",
@@ -621,7 +583,7 @@
       "latitude": 51.5132,
       "longitude": -0.1265
     },
-    "imageUrl": "https://example.com/images/the-ivy-london.jpg",
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMlhonMDDYT6tvdbPxrYVu4TfQyGDwwVkJL3ldM=s1360-w1360-h1020",
     "venueTimeZone": "Europe/London",
     "operatingHours": {
       "0": { "open": "11:30", "close": "23:00" },
@@ -643,7 +605,7 @@
     },
     "amenities": ["Fine Dining", "Private Rooms", "Celebrity Spotting"],
     "priceRange": "$$$$",
-    "trackId": "1480042159"
+    "trackId": "1684093971"
   },
   "black-pearl-melbourne": {
     "name": "Black Pearl",
