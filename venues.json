@@ -607,82 +607,6 @@
     "priceRange": "$$$$",
     "trackId": "1684093971"
   },
-  "black-pearl-melbourne": {
-    "name": "Black Pearl",
-    "description": "An award-winning bar offering creative cocktails in a relaxed, stylish setting.",
-    "location": "Melbourne, Australia",
-    "continent": "Australia",
-    "country": "Australia",
-    "city": "Melbourne",
-    "venueType": "Cocktail Bar",
-    "musicType": ["Jazz", "Soul"],
-    "popularityScore": 9.1,
-    "coordinates": {
-      "latitude": -37.7982,
-      "longitude": 144.9781
-    },
-    "imageUrl": "https://example.com/images/black-pearl-melbourne.jpg",
-    "venueTimeZone": "Australia/Melbourne",
-    "operatingHours": {
-      "0": { "open": "17:00", "close": "03:00" },
-      "1": { "open": "17:00", "close": "03:00" },
-      "2": { "open": "17:00", "close": "03:00" },
-      "3": { "open": "17:00", "close": "03:00" },
-      "4": { "open": "17:00", "close": "03:00" },
-      "5": { "open": "16:00", "close": "03:00" },
-      "6": { "open": "16:00", "close": "03:00" }
-    },
-    "contactInfo": {
-      "phone": "+61 3 9417 0455",
-      "email": "info@blackpearlbar.com.au",
-      "website": "http://www.blackpearlbar.com.au/"
-    },
-    "socialMedia": {
-      "instagram": "https://www.instagram.com/black_pearl_bar/",
-      "facebook": "https://www.facebook.com/BlackPearlBar/"
-    },
-    "amenities": ["Cocktail Lounge", "Private Events", "Live DJs"],
-    "priceRange": "$$$",
-    "trackId": "1480042159"
-  },
-  "the-ritz-paris": {
-    "name": "Bar Hemingway",
-    "description": "A legendary bar named after Ernest Hemingway, offering classic cocktails in an elegant setting.",
-    "location": "Paris, France",
-    "continent": "Europe",
-    "country": "France",
-    "city": "Paris",
-    "venueType": "Bar",
-    "musicType": ["Piano", "Jazz"],
-    "popularityScore": 9.5,
-    "coordinates": {
-      "latitude": 48.8688,
-      "longitude": 2.3284
-    },
-    "imageUrl": "https://example.com/images/bar-hemingway-paris.jpg",
-    "venueTimeZone": "Europe/Paris",
-    "operatingHours": {
-      "0": { "open": "18:00", "close": "02:00" },
-      "1": { "open": "18:00", "close": "02:00" },
-      "2": { "open": "18:00", "close": "02:00" },
-      "3": { "open": "18:00", "close": "02:00" },
-      "4": { "open": "18:00", "close": "02:00" },
-      "5": { "open": "18:00", "close": "02:00" },
-      "6": { "open": "18:00", "close": "02:00" }
-    },
-    "contactInfo": {
-      "phone": "+33 1 43 16 30 30",
-      "email": "info@ritzparis.com",
-      "website": "https://www.ritzparis.com/en-GB/fine-dining/bars/Bar-Hemingway"
-    },
-    "socialMedia": {
-      "instagram": "https://www.instagram.com/ritzparis/",
-      "facebook": "https://www.facebook.com/RitzParis/"
-    },
-    "amenities": ["Historic Bar", "Signature Cocktails", "Elegant Ambiance"],
-    "priceRange": "$$$$",
-    "trackId": "1480042159"
-  },
   "the-gin-palace-melbourne": {
     "name": "Gin Palace",
     "description": "A sophisticated cocktail bar specializing in gin-based drinks in a luxurious setting.",
@@ -697,7 +621,7 @@
       "latitude": -37.8150,
       "longitude": 144.9668
     },
-    "imageUrl": "https://example.com/images/gin-palace-melbourne.jpg",
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOeJ9e4l3cDD5US-49u9JjDE8QcEjcIM5Y_QTsU=s1360-w1360-h1020",
     "venueTimeZone": "Australia/Melbourne",
     "operatingHours": {
       "0": { "open": "16:00", "close": "03:00" },
@@ -719,44 +643,6 @@
     },
     "amenities": ["Gin Selection", "Cocktail Lounge", "Intimate Setting"],
     "priceRange": "$$$",
-    "trackId": "1480042159"
-  },
-  "buddha-bar-paris": {
-    "name": "Buddha-Bar",
-    "description": "A stylish bar and restaurant offering Asian-fusion cuisine and a unique ambiance.",
-    "location": "Paris, France",
-    "continent": "Europe",
-    "country": "France",
-    "city": "Paris",
-    "venueType": "Restaurant",
-    "musicType": ["Lounge", "Chillout"],
-    "popularityScore": 9.0,
-    "coordinates": {
-      "latitude": 48.8675,
-      "longitude": 2.3211
-    },
-    "imageUrl": "https://example.com/images/buddha-bar-paris.jpg",
-    "venueTimeZone": "Europe/Paris",
-    "operatingHours": {
-      "0": { "open": "18:00", "close": "02:00" },
-      "1": { "open": "18:00", "close": "02:00" },
-      "2": { "open": "18:00", "close": "02:00" },
-      "3": { "open": "18:00", "close": "02:00" },
-      "4": { "open": "18:00", "close": "02:00" },
-      "5": { "open": "18:00", "close": "03:00" },
-      "6": { "open": "18:00", "close": "03:00" }
-    },
-    "contactInfo": {
-      "phone": "+33 1 53 05 90 00",
-      "email": "reservation@buddhabar.com",
-      "website": "https://www.buddhabar.com/"
-    },
-    "socialMedia": {
-      "instagram": "https://www.instagram.com/buddhabarparis/",
-      "facebook": "https://www.facebook.com/BuddhaBarParisOfficial/"
-    },
-    "amenities": ["Asian Cuisine", "DJ Music", "Exotic Decor"],
-    "priceRange": "$$$$",
-    "trackId": "1480042159"
+    "trackId": "1933912634"
   }
 }
