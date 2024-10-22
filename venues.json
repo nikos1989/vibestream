@@ -151,44 +151,6 @@
     "priceRange": "$$",
     "trackId": "519805326"
   },
-  "ocean-beach-ibiza": {
-    "name": "O Beach Ibiza",
-    "description": "A lively beach club known for its pool parties and daytime events.",
-    "location": "San Antonio, Ibiza, Spain",
-    "continent": "Europe",
-    "country": "Spain",
-    "city": "Ibiza",
-    "venueType": "Beach Club",
-    "musicType": ["House", "Dance"],
-    "popularityScore": 9.2,
-    "coordinates": {
-      "latitude": 38.9827,
-      "longitude": 1.2966
-    },
-    "imageUrl": "https://example.com/images/ocean-beach-ibiza.jpg",
-    "venueTimeZone": "Europe/Madrid",
-    "operatingHours": {
-      "0": { "open": "12:00", "close": "22:00" },
-      "1": { "open": "12:00", "close": "22:00" },
-      "2": { "open": "12:00", "close": "22:00" },
-      "3": { "open": "12:00", "close": "22:00" },
-      "4": { "open": "12:00", "close": "22:00" },
-      "5": { "open": "12:00", "close": "22:00" },
-      "6": { "open": "12:00", "close": "22:00" }
-    },
-    "contactInfo": {
-      "phone": "+34 971 80 32 60",
-      "email": "info@obeachibiza.com",
-      "website": "https://www.obeachibiza.com/"
-    },
-    "socialMedia": {
-      "instagram": "https://www.instagram.com/obeachibiza/",
-      "facebook": "https://www.facebook.com/obeachibiza/"
-    },
-    "amenities": ["Pool Parties", "VIP Beds", "Restaurant", "Cocktail Bar"],
-    "priceRange": "$$$",
-    "trackId": "1480042159"
-  },
   "ce-la-vi-singapore": {
     "name": "CÉ LA VI",
     "description": "An upscale rooftop bar offering panoramic views of Singapore and a luxurious atmosphere.",
@@ -203,7 +165,7 @@
       "latitude": 1.2833,
       "longitude": 103.8603
     },
-    "imageUrl": "https://example.com/images/ce-la-vi-singapore.jpg",
+    "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/a6/13/31/sky-lounge-view-of-mbs.jpg?w=1400&h=-1&s=1",
     "venueTimeZone": "Asia/Singapore",
     "operatingHours": {
       "0": { "open": "12:00", "close": "02:00" },
@@ -225,7 +187,7 @@
     },
     "amenities": ["Skyline Views", "Fine Dining", "Live DJs", "Signature Cocktails"],
     "priceRange": "$$$$",
-    "trackId": "1480042159"
+    "trackId": "1652318460"
   },
   "white-beach-dubai": {
     "name": "WHITE Beach",
@@ -241,7 +203,7 @@
       "latitude": 25.1305,
       "longitude": 55.1170
     },
-    "imageUrl": "https://example.com/images/white-beach-dubai.jpg",
+    "imageUrl": "https://www.sevenrooms.com/.h/download/AMIfv94vaxlpQyKmqE4XbjpK5knLTBQfGAiuiI_NgEn9w-xmAC0jFcyiBbAQubG0ogaR_hGuK3g-5j5NcmiPv5wQTa4Pzxty8x5SRDQEvExFUoX44J55fMiWU8Mt1mMw_YltXR8P763jBlpb3rHWoND9Yc8O3PuxeCc2aiVpNHLHzcBY1Ec-43LSTdxGuoU81YdPbel0OzC1dqVeKPyS76C6gT1XRCfodTMao4gvuEFrR4bR-lLyKo9bnb045D2JhbcVa24FamKOcftBOhK8W7IGDZPcKGogATjr3v7T58IN_WePex1WSPnh2jrBwz8S9OpL_4CQJVxcUxCUQ_p7gaJG35tMzePZF9sjsBjYZzBuhR6-grqVR6GFumQaZtf_CxzeCVW3lU8AP-Rnss2qGv6GMr2N7SCT34NxsmxZAXZA_kCFnU_95RB32pQM0_BlE0jiByy2SxsA7iGmhcvcAj2pCmD5dYFsBZPEduZ9cMlbI9In1uYOHj1jU2flrzjtsfOCaUFBjbQ3kmU076uAvFhzBNk7xhLM_cgQXvWcCzG3RuSxFXztECsLlTD2v7QS4i-G74mvmo_n",
     "venueTimeZone": "Asia/Dubai",
     "operatingHours": {
       "0": { "open": "10:00", "close": "20:00" },
@@ -263,7 +225,7 @@
     },
     "amenities": ["Infinity Pool", "Beach Access", "Restaurant", "Live DJs"],
     "priceRange": "$$$",
-    "trackId": "1480042159"
+    "trackId": "785951425"
   },
   "park-hyatt-sydney": {
     "name": "The Living Room",
