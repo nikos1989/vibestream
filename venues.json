@@ -111,7 +111,7 @@
     },
     "amenities": ["Beach Access", "VIP Area", "Live DJs", "Gourmet Dining"],
     "priceRange": "$$$",
-    "trackId": "1480042159"
+    "trackId": "361164620"
   },
   "sky-garden-bali": {
     "name": "Sky Garden",
@@ -127,7 +127,7 @@
       "latitude": -8.7183,
       "longitude": 115.1746
     },
-    "imageUrl": "https://example.com/images/sky-garden-bali.jpg",
+    "imageUrl": "https://s3.amazonaws.com/a.storyblok.com/f/116532/1080x720/aa90ba38ed/sky-garden-bali-bottle-service.webp",
     "venueTimeZone": "Asia/Makassar",
     "operatingHours": {
       "0": { "open": "17:00", "close": "03:00" },
@@ -149,7 +149,7 @@
     },
     "amenities": ["Rooftop Lounge", "Multiple Dance Floors", "Live Performances"],
     "priceRange": "$$",
-    "trackId": "1480042159"
+    "trackId": "519805326"
   },
   "ocean-beach-ibiza": {
     "name": "O Beach Ibiza",
