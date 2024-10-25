@@ -644,5 +644,43 @@
     "amenities": ["Gin Selection", "Cocktail Lounge", "Intimate Setting"],
     "priceRange": "$$$",
     "trackId": "1933912634"
+  },
+  "le-bain-the-standard": {
+    "name": "Le Bain at The Standard",
+    "description": "A trendy rooftop bar offering stunning views of the New York City skyline, a plunge pool, and a vibrant nightlife experience.",
+    "location": "New York City, USA",
+    "continent": "North America",
+    "country": "United States",
+    "city": "New York",
+    "venueType": "Rooftop Bar",
+    "musicType": ["Electronic", "Lounge"],
+    "popularityScore": 9.0,
+    "coordinates": {
+      "latitude": 40.7420,
+      "longitude": -74.0077
+    },
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/5c1842a5697a981ca8ce13e8/1547676222436-Z6AQCMIPBQLALGG71THQ/neilaline-31601.jpg?format=2500w",
+    "venueTimeZone": "America/New_York",
+    "operatingHours": {
+      "0": { "open": "16:00", "close": "02:00" },
+      "1": { "open": "16:00", "close": "02:00" },
+      "2": { "open": "16:00", "close": "02:00" },
+      "3": { "open": "16:00", "close": "02:00" },
+      "4": { "open": "16:00", "close": "02:00" },
+      "5": { "open": "16:00", "close": "03:00" },
+      "6": { "open": "16:00", "close": "03:00" }
+    },
+    "contactInfo": {
+      "phone": "+1 212-645-4646",
+      "email": "info@thestandardhotel.com",
+      "website": "https://www.standardhotels.com"
+    },
+    "socialMedia": {
+      "instagram": "https://www.instagram.com/lebainnyc/",
+      "facebook": "https://www.facebook.com/LeBainNYC/"
+    },
+    "amenities": ["Rooftop Pool", "Skyline Views", "Nightclub", "Outdoor Seating"],
+    "priceRange": "$$$",
+    "trackId": "1158760675"
   }
 }
